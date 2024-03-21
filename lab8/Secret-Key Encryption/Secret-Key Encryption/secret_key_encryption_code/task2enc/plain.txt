@@ -1,0 +1,3 @@
+This is a text file written in plain text
+
+It should be encrypted in a while.
